@@ -1,0 +1,38 @@
+module.exports=[
+  {
+    mobile:[
+      {
+        name:'a-5',
+        price:3000
+      },{
+        name:'a-10',
+        price:5000
+      },{
+        name:'a-20',
+        price:7000
+      }
+    ],
+    pushak:[
+      {
+        name:'manto-bahareh',
+        price:2000,
+      },{
+        name:'manto-paezeh',
+        price:1000,
+      },{
+        name:'manto-zemestaneh',
+        price:500,
+      }
+    ],
+    khorak:[
+      {
+        name:'goosht-goosfandi',
+      },{
+        name:'goosht-gavi',
+      },{
+        name:'goosh-morgh',
+      }
+    ]
+  }
+]
+
