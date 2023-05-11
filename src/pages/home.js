@@ -3,6 +3,7 @@ import ScrollFadeMenu from "../components/scrollFadeMenu";
 import TopMenu from "../components/topMenu";
 import SliderTop from "../components/slider";
 import Swiper from "../components/swiper";
+import CategoryMost from "../components/categoryMost";
 
 const Home = ()=>{
 
@@ -12,6 +13,7 @@ const Home = ()=>{
       <ScrollFadeMenu/>
       <SliderTop/>
       <Swiper/>
+      <CategoryMost/>
       <Delete/>
     </div>
   )
